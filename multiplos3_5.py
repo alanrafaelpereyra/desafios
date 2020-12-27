@@ -5,6 +5,13 @@
 
 Buscamos solventar el problema de sumar todos los multiplos de 3 y 5 a partir de un numero dado, para este caso, el numero dado sera 10
 """
+
+
+# test.describe("Multiples of 3 and 5")
+# test.it("should handle basic cases")
+# test.assert_equals(solution(10), 23)
+
+
 def solution(number):
     multiplos_3_5=[] #creamos una lista vacia
     lista=range(1,number) 
@@ -27,19 +34,3 @@ def solution(number):
 # test.it("should handle basic cases")
 # test.assert_equals(solution(10), 23)
 
-
-"""
-# Quiero crear una lista que va de uno en uno a partir de un numero ingresado 
-
- x=int(input()) # Ingresamos el numero
-
-multiplos_3_5=[] #creamos una lista vacia
-lista=range(1,x) 
-for elementos in lista:                 #para cada valor en la lista, revisamos si son multiplos de 3 y 5, si son, lo agregamos a la lista
-     if elementos % 3==0:
-        multiplos_3_5.append(elementos)
-     elif elementos % 5==0:
-         multiplos_3_5.append(elementos)
-     else:
-         pass
- print(sum(multiplos_3_5)) 
