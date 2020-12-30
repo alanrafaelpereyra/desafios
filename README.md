@@ -18,4 +18,4 @@ En caso de que sean obtenidos de otro lugar, se indicara la fuente original.
 Alan Rafael Pereyra
 
 Python Developer Junior
-Funcitonal Tester Junior 
+Functional Tester Junior 
