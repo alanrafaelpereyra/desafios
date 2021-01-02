@@ -1,4 +1,4 @@
-Este repositorio tiene como objetivo almacenar mis soluciones a los desafios de codewars. 
+Este repositorio tiene como objetivo almacenar mis soluciones a los desafios y ejercicios.
 Pudiendo servir para futuras referencias de codigo o como portafolio de mi trabajo en python
 
 Por cada desafio habra un .py, a menos que sea necesario tener mas de un .py por desafio,
@@ -11,11 +11,7 @@ Seguido de esto estara la construccion de la solucion o funcion, segun aplique.
 
 Finalmente estará comentada la mejor solucion de la comunidad al mismo problema
 
-No tomo credito por los desafios, todos son extraidos de codewars.com, 
-En caso de que sean obtenidos de otro lugar, se indicara la fuente original.
+No tomo credito por los desafios, todos son extraidos de diferentes plataformas
 
 
 Alan Rafael Pereyra
-
-Python Developer Junior
-Functional Tester Junior 
