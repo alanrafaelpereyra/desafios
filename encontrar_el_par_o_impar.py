@@ -12,9 +12,9 @@ def find_outlier1(integers):  #Buscamos contar los pares e impares para saber qu
     impares=0
     for i in integers:
         if i % 2==0: 
-            pares+=
+            pares+=1
         else:
-            impares+=
+            impares+=1
     if pares ==1 :               #Si sabemos que solo hay un par, lo buscamos y entregamos
         for i in integers:
             if i % 2 ==0:
