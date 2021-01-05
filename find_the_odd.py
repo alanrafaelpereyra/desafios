@@ -10,7 +10,7 @@
 # test.assert_equals(find_it([1,1,1,1,1,1,10,1,1,1,1]), 10);
 # test.assert_equals(find_it([5,4,3,2,1,5,4,3,2,10,10]), 1);
 
-# def find_it(seq):
+def find_it(seq):
 
     for i in seq:
         seq.count(i)
